@@ -1,0 +1,40 @@
+body
+{
+  font-family: 'Anaheim', sans-serif;
+}
+legend
+{
+  text-decoration: underline;
+}
+.personal-details{
+
+}
+.container
+{
+
+}
+.container{
+background-color: #fff;
+border: 1px solid;
+}
+.title
+{
+  text-align: center;
+  font-weight:500;
+  font-family: 'Quintessential', cursive;
+}
+.outside
+{
+  background-color: #FEF9EF
+}
+.details{
+padding: 10px;
+}
+.submit-button
+{
+  text-align: center;
+}
+.elope
+{
+  padding: 10px 0;
+}
